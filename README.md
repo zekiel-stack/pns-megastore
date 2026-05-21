@@ -37,4 +37,13 @@ built with PHP, MySQL, and vanilla JavaScript as a team project.
 3. Place project in `htdocs/` and visit `http://localhost/pns_megastore/`
 
 ## Screenshots
-(add screenshots here)
+
+##Dashbaord
+![Dashboard](screenshots/dashboard.png)
+
+##Inventory
+![Inventory](screenshots/inventory.png)
+
+##Analytics
+![Analytics](screenshots/analytics.png)
+
