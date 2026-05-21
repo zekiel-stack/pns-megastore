@@ -18,7 +18,7 @@ built with PHP, MySQL, and vanilla JavaScript as a team project.
 - Created the responsive sidebar and mobile navigation
 - Built the real-time stock adjuster using the Fetch API (AJAX)
 - Designed the dark-theme UI including metric cards, tables, 
-  badges, shelf indicators, and category color system
+  badges,shelf indicators, and category color system
 - Implemented all flash messages, form layouts, and animations
 
 ## Team Contributions
